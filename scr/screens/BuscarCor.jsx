@@ -47,7 +47,7 @@ export default function BuscarCor({navigation}){
     return(
         <View style={styles.container}>
             <Text style={styles.title}>Buscar Cor</Text>
-            <Text style={styles.subtitle}>Digite uma cor em específico (primeira letra maiúscula), ou digite "todos" para ver todas as cores.</Text>
+            <Text style={styles.subtitle}>Digite o nome da cor.</Text>
             <TextInput
                 label="Digite o nome da cor"
                 value={nomeDaCor}
