@@ -6,7 +6,7 @@ import styles from "../utils/styles"
 export default function HomeScreen({navigation}) {
     return (
         <View style={styles.container}>
-            <Text style={styles.title}>Bem-vindo(a) à Home Screen!</Text>
+            <Text style={styles.title}>Lets go a pesquisar coisas dos outros bora!</Text>
             <Button
                 mode="contained"
                 onPress={()=>{navigation.navigate("BuscarProduto")}}

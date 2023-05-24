@@ -18,11 +18,11 @@ export default function RootNavigation() {
                     name="Home"
                     component={HomeScreen}
                     options={{
-                        title: "Gabriel Delas (Home)",
+                        title: "",
                         headerStyle:{
-                            backgroundColor: "#444",
+                            backgroundColor: "#ffff00",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                     }}
                     
                 />
@@ -34,7 +34,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "#ffff00",
                         headerLeft: null,
                     }}
                 />
@@ -46,7 +46,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                         headerLeft: null,
                     }}
                 />
@@ -58,7 +58,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                         headerLeft: null,
                     }}
                 />
@@ -70,7 +70,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                         headerLeft: null,
                     }}
                 />
@@ -82,7 +82,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                         headerLeft: null,
                     }}
                 />
@@ -94,7 +94,7 @@ export default function RootNavigation() {
                         headerStyle:{
                             backgroundColor: "#444",
                         },
-                        headerTintColor: "#ececec",
+                        headerTintColor: "##ffff00",
                         headerLeft: null,
                     }}
                 />
