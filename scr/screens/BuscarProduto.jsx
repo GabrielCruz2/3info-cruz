@@ -74,7 +74,7 @@ export default function BuscarProduto({ navigation }) {
                 mode="contained"
                 onPress={() => { navigation.goBack() }}
                 style={styles.backButton}
-            >Voltar</Button>
+            >Voltarr</Button>
         </View>
     )
 }
