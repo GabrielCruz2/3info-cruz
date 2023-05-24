@@ -11,7 +11,7 @@ export default function HomeScreen({navigation}) {
                 mode="contained"
                 onPress={()=>{navigation.navigate("BuscarProduto")}}
                 style={styles.button}
-            >Vamos dar uma volta na tela de Buscar Produtos clique aqui e seja Feliz!</Button>
+            >Vamos dar umaa volta na tela de Buscar Produtos clique aqui e seja Feliz!</Button>
             <Button
                 mode="contained"
                 onPress={()=>{navigation.navigate("BuscarAnimal")}}
